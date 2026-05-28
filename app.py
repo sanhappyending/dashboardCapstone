@@ -594,7 +594,7 @@ st.markdown(
         <span class="badge-pill">Capstone EDA</span>
         <h1>Dashboard SkillMatch.AI</h1>
         <p>
-        Dashboard ini membantu mengeksplorasi data lowongan kerja dan kebutuhan skill industri. isualisasi difokuskan pada kategori pekerjaan,
+        Dashboard ini membantu mengeksplorasi data lowongan kerja dan kebutuhan skill industri. Visualisasi difokuskan pada kategori pekerjaan,
         distribusi skill, serta skill yang paling banyak dibutuhkan untuk membantu pengguna memahami
         peluang karier dan pengembangan skill yang relevan.
         </p>
